@@ -14,6 +14,7 @@ def main():
 
     save_video(output_frames, "output/output2.avi")
 
+###### Main function for 1 image
 
 # def main():
 #

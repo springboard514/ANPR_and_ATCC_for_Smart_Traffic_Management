@@ -1,6 +1,6 @@
 output
 .env
-
+venv
 data
 yolov8x.pt
 
