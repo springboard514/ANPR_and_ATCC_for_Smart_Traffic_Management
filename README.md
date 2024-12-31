@@ -78,7 +78,7 @@ python visualize.py
 ```
 
 ## 📄 License
-[Add your license information here]
+[LICENSE]
 
 ## 📞 Contact
 [Add your contact information here]
