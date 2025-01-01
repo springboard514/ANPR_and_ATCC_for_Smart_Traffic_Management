@@ -11,6 +11,9 @@ This project implements an intelligent traffic management system utilizing Autom
 
 ### Results
 - you can file the result video at this location : "Provide the link of the output video."
+You can view the demonstration video of this project [here](https://drive.google.com/file/d/1RGmIh8YaCx4Yo1RHf-s3i0Gkt2eaPSTX/view?usp=sharing) 
+
+[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-blue)](https://drive.google.com/file/d/1RGmIh8YaCx4Yo1RHf-s3i0Gkt2eaPSTX/view?usp=sharing)
 
 ## 🏗️ Project Structure
 ```
