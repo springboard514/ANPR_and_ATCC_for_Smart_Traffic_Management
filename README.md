@@ -12,7 +12,6 @@ This project implements an intelligent traffic management system utilizing Autom
 ### Results
 - you can file the result video at this location : "Provide the link of the output video."
 
-
 ## 🏗️ Project Structure
 ```
 ├── CV_Basics/                  # Computer vision and OCR learning materials
